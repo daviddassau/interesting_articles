@@ -20,6 +20,7 @@ h2 {
 
 footer {
 	font-size: .75em;
+	padding: 1em 0;
 }
 
 .article {
@@ -30,3 +31,134 @@ footer {
 #main-footer {
 	text-align: center;
 }
+
+/* FIRST SECTION - KEVIN BACONATOR */
+.baconator {
+	background-color: #fff;
+	padding: .1em 1em 1em 1em;
+	font-family: 'Zilla Slab', serif;
+	font-size: 1.1em;
+	border: solid 2px #073740;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+	margin-bottom: 1em;
+}
+
+.baconator h2 {
+	font-size: 2em;
+	color: #073740;
+}
+
+.baconator p {
+	line-height: 25px;
+}
+
+
+/* SECOND SECTION - BAD MOTHERF*CKER */
+.bad {
+	background-color: #00FFFE;
+	color: #004040;
+	padding: .3em 3em 2em 3em;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.1em;
+	border: solid 2px #007F7E;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border-radius: 20px 20px 20px 20px;
+	margin-bottom: 1em;
+}
+
+.bad h2 {
+	font-size: 2.5em;
+	color: #007F7E;
+}
+
+.bad p {
+	line-height: 30px;
+}
+
+
+/* THIRD SECTION - BEST WORD EVER */
+.best-word {
+	background-color: #1D5712;
+	color: #4DE730;
+	padding: .4em 4em 3em 4em;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 1.3em;
+	border: solid 2px #fff;
+	-webkit-border-radius: 40px 40px 40px 40px;
+	border-radius: 40px 40px 40px 40px;
+	margin-bottom: 1em;
+}
+
+.best-word h2 {
+	font-size: 2.8em;
+	color: #fff;
+}
+
+.best-word p {
+	line-height: 22px;
+}
+
+
+/* Forth SECTION - Dogs Are Much Better Than Cats */
+.dogs {
+	background-color: #EEF8C5;
+	color: #14C1BC;
+	padding: .1em 4em .5em 4em;
+	font-family: 'Muli', sans-serif;
+	font-size: .9em;
+	border: solid 2px #E89696;
+	-webkit-border-radius: 50px 50px 50px 50px;
+	border-radius: 50px 50px 50px 50px;
+	margin-bottom: 1em;
+}
+
+.dogs h2 {
+	font-size: 2.1em;
+	color: #E89696;
+}
+
+.dogs p {
+	line-height: 33px;
+}
+
+
+/* FIFTH SECTION - I Look Really Hot Eating A Cupcake */
+.cupcake {
+	background-color: #9BDAF2;
+	color: #F28E13;
+	padding: 1em 2em 1em 2em;
+	font-family: 'Bitter', serif;
+	font-size: 1.2em;
+	border: solid 2px #F2B749;
+	-webkit-border-radius: 70px 70px 70px 70px;
+	border-radius: 70px 70px 70px 70px;
+	margin-bottom: 1em;
+}
+
+.cupcake h2 {
+	font-size: 2.3em;
+	color: #F25C05;
+}
+
+.cupcake p {
+	line-height: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
