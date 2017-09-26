@@ -8,3 +8,5 @@ Build a basic "Interesting Article" page that has 5 articles and any random topi
 1. Each article has a header containing a title.
 1. Each article has a footer containing the author and publication date.
 1. Each article has at least one section.
+
+![1_interesting-articles.png]
