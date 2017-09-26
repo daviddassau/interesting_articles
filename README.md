@@ -10,3 +10,5 @@ Build a basic "Interesting Article" page that has 5 articles and any random topi
 1. Each article has at least one section.
 
 ![](1_interesting-articles.png)
+
+![](1_interesting-articles.mp4)
